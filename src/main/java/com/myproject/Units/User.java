@@ -1,7 +1,7 @@
 package com.myproject.Units;
 
 /**
- * @author Serzhan Daniil
+ * @author Serzhan Daniil 
  * @version 12.0.2
  * Class of user
  */
